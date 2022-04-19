@@ -1,24 +1,24 @@
 # italian-food
 
 ## Project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## My process
+
+### Built with
+
+- Flexbox.
+- Responsive design .
+- AOS Animations .
+- vue Carousel.
+- Vue.js - Javascript framework.
+- Tailwindcss - For styling.
+
+## Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

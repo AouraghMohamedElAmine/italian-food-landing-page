@@ -74,9 +74,6 @@ export default {
   border-radius: 40px;
   padding: 0 10px;
 }
-.bm-burger-bars {
-  background-color: white;
-}
 .search:hover > .search-txt {
   width: 130px;
   padding: 0 10px;

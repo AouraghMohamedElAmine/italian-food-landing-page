@@ -1,6 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/* * {
-  border: red 1px solid;
-} */
+ 
+/*Aos animation is causing the overflow */
+#app{
+  overflow-x: hidden;
+}
+.bm-burger-bars {
+  background-color: white;
+}
