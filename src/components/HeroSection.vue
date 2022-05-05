@@ -71,18 +71,12 @@
       >
         <img :src="oneLeaf" alt="oneLeaf" width="150" height="150" />
       </div>
-      <div
-        class="fourthLeaf-shape"
-        data-aos="fade-down"
-        data-aos-duration="2000"
-      >
-        <img :src="oneLeaf" alt="oneLeaf" width="150" height="150" />
-      </div>
+  
       <div class="sauce-shape" data-aos="fade-up" data-aos-duration="2000">
         <img :src="sauce" alt="oneLeaf" height="300" width="300" />
       </div>
 
-      <img class="pt-24 pb-10 pl-16" :src="heroPlate" alt="heroPlate" />
+      <img class="pt-0 pb-10 pl-16" :src="heroPlate" alt="heroPlate" />
     </div>
   </div>
 </template>
